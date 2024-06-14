@@ -53,5 +53,6 @@ class OTPVerification extends Mailable
     public function attachments(): array
     {
         return [];
+         return [];
     }
 }

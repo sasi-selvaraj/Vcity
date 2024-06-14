@@ -21,3 +21,4 @@ composer.lock
 package-lock.json
 /storage/fonts
 app/tmp/mpdf/ttfontdata
+app/tmp/mpdf/ttfontdata

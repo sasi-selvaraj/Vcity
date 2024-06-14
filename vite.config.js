@@ -10,6 +10,7 @@ export default defineConfig({
             refresh: true,
              input: ['resources/css/app.css', 'resources/js/app.js'],
             refresh: true,
+            refresh: true,
         }),
     ],
 });
